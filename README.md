@@ -162,6 +162,6 @@ If you like the project:
 
 ---
 
-## 📜 License
+## License
 
-(To be defined — MIT recommended)
+Mikkusu is released under the GPLv3.0. See the LICENSE file for a full copy of the license.
