@@ -5,6 +5,7 @@
 > From concept to product — built for real-world testing and continuous improvement.
 
 
+
 ## Features
 
 * Dual deck playback
@@ -17,14 +18,14 @@
 * Jog wheel interaction (track nudging)
 * Track position and timing display
 
----
+
 
 ## Platforms
 
 * Windows (MSI installer available)
 * macOS (development environment)
 
----
+
 
 ## Download
 
@@ -36,7 +37,7 @@ Example:
 
 * `Mikkusu-v0.1.0-Windows.msi`
 
----
+
 
 ## Getting Started
 
@@ -49,7 +50,7 @@ Example:
    * Start Menu
    * Desktop shortcut
 
----
+
 
 ## Testing (Beta)
 
@@ -67,7 +68,7 @@ We would really appreciate your help testing the application.
 * EQ adjustments
 * Waveform seeking
 
----
+
 
 ## Reporting Bugs
 
@@ -82,7 +83,7 @@ Include:
 * Expected behavior
 * Screenshots or screen recordings (if possible)
 
----
+
 
 ## Feature Requests
 
@@ -90,7 +91,7 @@ Have an idea or improvement?
 
 👉 *[Request a Feature](../../issues)*
 
----
+
 
 ## Built With
 
@@ -99,7 +100,7 @@ Have an idea or improvement?
 * **Visual Studio (Windows builds)**
 * **Projucer**
 
----
+
 
 ## Project Structure
 
@@ -110,7 +111,7 @@ Assets/              → Icons, screenshots, branding
 Docs/                → Documentation and roadmap
 ```
 
----
+
 
 ## Roadmap
 
@@ -123,7 +124,7 @@ Planned improvements:
 * Effects (FX) module
 * Crossfader
 
----
+
 
 ## Versioning
 
@@ -133,7 +134,7 @@ Current version:
 v0.1.0 (Beta)
 ```
 
----
+
 
 ## Author
 
@@ -142,14 +143,14 @@ v0.1.0 (Beta)
 * Network Engineer & Technology Consultant
 * Passionate about systems, infrastructure, and software development
 
----
+
 
 ## Disclaimer
 
 This is an experimental project under active development.
 Expect bugs, incomplete features, and frequent updates.
 
----
+
 
 ## Support
 
@@ -159,7 +160,7 @@ If you like the project:
 * Test and provide feedback
 * Share suggestions
 
----
+
 
 ## License
 
